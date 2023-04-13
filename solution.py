@@ -3,7 +3,7 @@ import numpy as np
 import statsmodels.stats.weightstats as w
 
 
-chat_id = 123456 # Ваш chat ID, не меняйте название переменной
+chat_id = 1068310526 # Ваш chat ID, не меняйте название переменной
 
 def solution(...) -> bool: # Одна или две выборке на входе, заполняется исходя из условия
     # Измените код этой функции
